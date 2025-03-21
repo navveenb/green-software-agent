@@ -81,6 +81,6 @@ Inspired by the mission and principles of the [Green Software Foundation](https:
 ## 💬 Stay Connected
 
 👉 Try the agent: [https://greensoftware.ai](https://greensoftware.ai)  
-📣 Share feedback and ideas: [Submit an Issue](https://github.com/<your-org-or-username>/green-software-agent/issues)  
+📣 Share feedback and ideas: [Submit an Issue](https://github.com/navveenb/green-software-agent/issues)  
 🔗 Forward this tool to your community—**Let’s build this together!**
 
