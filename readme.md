@@ -68,7 +68,7 @@ To contribute feedback, please open an [issue](https://github.com/navveenb/green
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
