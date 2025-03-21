@@ -62,7 +62,7 @@ This project is currently closed for direct contributions during beta, but we we
 - 💡 Feature suggestions  
 - 📚 Use case ideas  
 
-To contribute feedback, please open an [issue](https://github.com/<your-org-or-username>/green-software-agent/issues) or contact via [greensoftware.ai](https://greensoftware.ai)
+To contribute feedback, please open an [issue](https://github.com/navveenb/green-software-agent/issues) or contact via [greensoftware.ai](https://greensoftware.ai)
 
 ---
 
